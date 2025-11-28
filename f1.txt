@@ -1,5 +1,2 @@
 Hi Siddu
 This line added in GitHub  directly
-
-int i=10;
-int j=15;
