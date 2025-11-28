@@ -6,4 +6,8 @@ change2
 }
 int i=1;
 int i=2;
+
 String s="siddu";
+
+int j=3;
+
