@@ -11,3 +11,4 @@ String s="siddu";
 
 int j=3;
 int c=50;
+int b=100;
